@@ -1,3 +1,5 @@
+CREATE DATABASE projeto;
+
 CREATE TABLE Cliente (
   cpf VARCHAR(11) NOT NULL,
   nome VARCHAR(50),
